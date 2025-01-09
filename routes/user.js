@@ -7,4 +7,4 @@ router.post('/login',log)
 router.post('/reqReset',reqResetPassword)
 router.post('/reset',resetPassword)
 
-module.exports = router
+module.exports = router 
